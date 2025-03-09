@@ -26,5 +26,7 @@ ETL project for a telecom company, where I processed multiple files containing c
 
 https://github.com/user-attachments/assets/41688dd3-9923-4483-8ec9-4c3b42433e2d
 
+# Data after processed 
 
+![DB Tables](https://github.com/user-attachments/assets/d0aafa87-a671-489a-9b29-8900b4cb160c)
 
