@@ -17,11 +17,14 @@ ETL project for a telecom company, where I processed multiple files containing c
 
 # SSIS Package
   
-![SSIS Control Flow](https://github.com/user-attachments/assets/27e80655-ea16-43c6-b607-ccc35071d161)
+![SSIS Control Flow](https://github.com/user-attachments/assets/9fbaa2aa-2635-4845-a647-58b1eaa44ac0)
 
-![SSIS Data Flow](https://github.com/user-attachments/assets/bc2aa714-5992-4263-be40-ce5c285e966d)
+![SSIS Data Flow](https://github.com/user-attachments/assets/a9426f68-52be-4760-8c73-1d16f9c582c5)
+
 
 # Moving files to processed folder
 
-https://github.com/user-attachments/assets/6930fb46-fe28-4a71-8548-80debcbe97f5
+https://github.com/user-attachments/assets/41688dd3-9923-4483-8ec9-4c3b42433e2d
+
+
 
